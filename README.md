@@ -1,16 +1,69 @@
-## Hi there 👋
+# 👋 Hi, I'm Moazzam
 
-<!--
-**mouzam-ali-007/mouzam-ali-007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+🚀 Full Stack Developer specializing in scalable web apps & real-time systems.  
+💡 Focused on clean architecture, performance, and maintainability.  
+🌍 Fluent in English.  
+
+---
+
+## 🔗 Connect with Me
+<p align="center">
+
+</p>
+
+---
+
+## ⚡ Current Focus
+- 📈 System design for scalable apps  
+- 🔄 Real-time data & sockets  
+- ⚛️ Advanced React patterns  
+- 🧱 Microservices & containers (Docker, K8s)  
+- 🤖 AI tools for dev productivity  
+- 🚀 Next.js + TypeScript performance  
+- 🐍 Python for ML & data  
+
+---
+
+## 🛠️ Tech Stack
+
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,js,ts,html,css" />
+</p>
+
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,python" />
+</p>
+
+### 🧰 DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,firebase,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+
+</p>
+
+---
+
+## 🔥 Top Languages
+<p align="center">
+</p>
+
+---
+
+
+<p align="center">
+  <b>Build clean and smart</b>
+</p>
