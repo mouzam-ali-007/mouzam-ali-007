@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Moazzam
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a6b7c,50:2f8fa3,100:4fa3b3&height=220&section=header&text=Muhammad%20Zeeshan%20Haider&fontSize=50&fontColor=ffffff&fontAlignY=36&animation=twinkling&desc=Backend-focused%20Full-Stack%20Engineer&descSize=20&descAlignY=58" alt="Muhammad Zeeshan Haider" width="100%" />
+</p>
 <p align="center">
   
 </p>
